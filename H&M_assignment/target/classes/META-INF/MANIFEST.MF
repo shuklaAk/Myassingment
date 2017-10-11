@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: assignment
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: AkankshaShukla
+Implementation-Vendor-Id: com.ibm
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/assignment/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
