@@ -34,7 +34,7 @@
 					<archive>
 						<manifest>
 							<addClasspath>true</addClasspath>
-							<mainClass>com.ibm.fileReader.FileReader</mainClass>
+							<mainClass>com.ibm.fileReader.starter.FileReader</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
